@@ -1,0 +1,6 @@
+Github REPO
+https://github.com/toyintheisaac/image-filter-starter-code
+
+
+ENDPOINT
+http://monolitic-image-filter-app-dev.us-east-1.elasticbeanstalk.com/
